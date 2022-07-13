@@ -37,7 +37,7 @@ ___
   - spustit soubor `file_settings.reg`
 ___
 
-#### Programy přepisující defaultní windows funkce:
+#### Programy přepisující defaultní Windows funkce:
 
 - EarTrumpet (náhrada za směšovač hlasitost)
   - v PowerShellu spustit příkaz `winget install -e --id File-New-Project.EarTrumpet`
