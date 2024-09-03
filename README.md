@@ -53,3 +53,6 @@ ___
 - **[Win10]** Debloater
   - [soubor Debloater GUI](src/debloater)
   - spustit soubor `windows10debloater.ps1` v PowerShellu
+- Editor jasu v hlavním panelu
+  - spustit [soubor MonitorianInstaller.msi](src/brightness/)
+  - jedná se o software **Monitorian** ([src kód](https://github.com/emoacht/Monitorian))
